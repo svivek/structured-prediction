@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  
+  <body>
+    <div id="content">
+      {% include header.html %}
+
+        {% include nav.html %}        
+        <div class="main">
+          {%if page.title %} <h2> {{page.title}}</h2> {% endif %}
+          {{ content }}
+        </div>
+        {% include nav.html %}
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+# Site settings
+
+highlighter: true
+
+title: Structured Prediction
+
+description: > 
+ Structured Prediction (CS 6355), Spring 2020
+
+baseurl: "/teaching/structured-prediction/spring2018" 
+lectures: "/teaching/lectures"
+
+url: "https://svivek.com" 
+
+
+# Build settings
+markdown: kramdown
+
+
+instructor_office: 3126 MEB
+instructor_office_hours: "Thu 11:00 AM, 3126 MEB, or by appointment"
+
+year: Spring 2020
+coursenumber: "CS 6355"
+
+classtime: "Tue & Thu, 9:10AM -- 10:30PM"
+classlocation: "WEB L120"
+
+canvas: https://utah.instructure.com/courses/477377
+
+videoicon: "[**video**]"

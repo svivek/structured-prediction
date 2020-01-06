@@ -1,0 +1,71 @@
+Desmond Hill lives near Ashley Park .
+B-Person I-Person O O B-Location I-Location O
+
+I was skiing on Desmond Hill last winter when I met Ashley Park .
+O O O O B-Location I-Location O O O O O B-Person I-Person O
+
+Prime Minister Desmond Hill visited the victims of the flood at Ashley Park .
+O O B-Person I-Person O O O O O O B-Location I-Location
+
+Prime Minister Ashley Hill visited the victims of the flood at Desmond Park .
+O O B-Person I-Person O O O O O O B-Location I-Location
+
+Ashley Park is my hero .
+B-Person I-Person O O O O
+
+Desmond Park was the MVP of the year .
+B-Person I-Person O O O O O O
+
+People crowded at Desmond Park to see the show .
+O O O B-Location I-Location O O O O O
+
+Ashley Hill is my hero .
+B-Person I-Person O O O O
+
+Ashley Hill lives near Desmond Park .
+B-Person I-Person O O B-Location I-Location O
+
+I was skiing on Ashley Hill last year when I met Desmond Park .
+O O O O B-Location I-Location O O O O O B-Person I-Person O
+
+I got off the train at Desmond Park .
+O O O O O O B-Location I-Location O
+
+Desmond Hill got off the train at Ashley Park .
+B-Person I-Person O O O O O B-Location I-Location O
+
+Ashley Hill got off the train at Desmond Park .
+B-Person I-Person O O O O O B-Location I-Location O
+
+People crowded at Ashley Park to see the show .
+O O O B-Location I-Location O O O O O
+
+The commute from Ashley Park is terrible .
+O O O B-Location I-Location O O O
+
+The commute from Desmond Park is terrible .
+O O O B-Location I-Location O O O
+
+I voted for Desmond Hill .
+O O O B-Person I-Person O
+
+I voted for Ashley Hill .
+O O O B-Person I-Person O
+
+I voted at Ashley Park .
+O O O B-Location I-Location O
+
+I voted at Desmond Park .
+O O O B-Location I-Location O
+
+My sister lives in Ashley Park .
+O O O O B-Location I-Location O
+
+My sister is Ashley Hill .
+O O O O B-Person I-Person O
+
+My brother lives in Desmond Park .
+O O O O B-Location I-Location O
+
+My brother is Desmond Hill .
+O O O O B-Person I-Person O

@@ -1,0 +1,11 @@
+The people cheered at Ashley Hill .
+O O O O B-Location I-Location O
+
+The people cheered at Desmond Hill .
+O O O O B-Location I-Location O
+
+Desmond Park cheered at Ashley Hill .
+B-Person I-Person O O B-Location I-Location O
+
+Ashley Park cheered at Desmond Hill .
+B-Person I-Person O O B-Location I-Location O
