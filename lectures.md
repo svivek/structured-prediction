@@ -11,46 +11,45 @@ title: Class Schedule
 ### Lectures
 <a name = "lectures">
 
-The slides and resources for each lecture will be updated after the
-class. The schedule below is tentative and both the order and the
-content may change as the semester goes along.
+The slides and resources for each lecture will be updated after the class. The
+schedule below is tentative and both the order and the content may change as the
+semester goes along.
 
 
 | **Date** | **Lecture**                                                                                |
-| 8-Jan    | [Introduction](lectures/intro.html)                                                        |
-| 10-Jan   | [Review: Supervised Learning](lectures/supervised-review.html)                             |
-| 15-Jan   | *MLK Day. No class.*                                                                       |
-| 17-Jan   | [Multiclass Classification: Local models](lectures/multiclass.html)                        |
-| 22-Jan   | [Multiclass Classification: Global models](lectures/multiclass.html)                       |
-| 24-Jan   | [First Look at Structures](lectures/first-look.html)                                       |
-| 29-Jan   | [Sequence Models](lectures/sequences.html): HMM                                            |
-| 31-Jan   | [Sequence Models](lectures/sequences.html): Local models                                   |
-| 5-Feb    | [Sequence Models](lectures/sequences.html): CRFs                                           |
-| 7-Feb    | [Sequence Models](lectures/sequences.html): Structured Perceptron                          |
-|          | [General Formulations](lectures/general-formulations.html): Graphical Models               |
-| 12-Feb   | [General Formulations](lectures/general-formulations.html): Graphical Models (continued)   |
-| 14-Feb   | [General Formulations](lectures/general-formulations.html): Markov Logic Networks          |
-| 19-Feb   | *Presidents' Day. No class.*                                                               |
-| 21-Feb   | [General Formulations](lectures/general-formulations.html): Markov Logic Networks          |
-| 26-Feb   | [General Formulations](lectures/general-formulations.html): Constrained Conditioned Models |
-| 28-Feb   | [Training strategies](lectures/general-formulations.html): CCMs (continued)                |
-| 5-Mar    | [Training strategies](lectures/training.html): Structural SVM                              |
-| 7-Mar    | [Training strategies](lectures/training.html): Structural SVM, SGD                         |
-| 12-Mar   | [Training strategies](lectures/training.html): SGD for learning          |
-| 14-Mar   | [Inference](lectures/inference.html): Graph algorithms                                     |
-| 19-Mar   | *Spring Break. No class*                                                                   |
-| 21-Mar   | *Spring Break. No class*                                                                   |
-| 26-Mar   | *Class cancelled*                                                                          |
-| 28-Mar   | [Inference](lectures/inference.html): ILP Inference                                        |
-| 2-Apr    | [Inference](lectures/inference.html): Approximate Inference                                |
-| 4-Apr    | [Inference](lectures/inference.html): Learning to Search                                   |
-| 9-Apr    | [Deep learning](lectures/deep-learning.html): Neural network review                        |
-| 11-Apr   | [Deep learning](lectures/deep-learning.html): Recurrent Networks, LSTM                     |
-| 16-Apr   | [Learning with constraints](lectures/constraints.html)                                     |
-| 18-Apr   | [Learning latent variables](lectures/latent.html)                                          |
-| 23-Apr   | [Practical concerns](lectures/practical.html)                                              |
+| 7-Jan    | [Introduction](lectures/intro.html)                                                        |
+| 9-Jan    | [Review: Supervised Learning](lectures/supervised-review.html)                             |
+| 14-Jan   | [Multiclass Classification: Local models](lectures/multiclass.html)                        |
+| 16-Jan   | [Multiclass Classification: Global models](lectures/multiclass.html)                       |
+| 21-Jan   | [First Look at Structures](lectures/first-look.html)                                       |
+| 23-Jan   | [Sequence Models](lectures/sequences.html): HMM                                            |
+| 28-Jan   | [Sequence Models](lectures/sequences.html): Local models                                   |
+| 30-Jan   | [Sequence Models](lectures/sequences.html): CRFs                                           |
+| 4-Feb    | [Sequence Models](lectures/sequences.html): Structured Perceptron                          |
+| 6-Feb    | [General Formulations](lectures/general-formulations.html): Graphical Models               |
+| 11-Feb   | [General Formulations](lectures/general-formulations.html): Markov Logic Networks          |
+| 13-Feb   | [General Formulations](lectures/general-formulations.html): Constrained Conditioned Models |
+| 18-Feb   | [Training strategies](lectures/training.html): Structural SVM                              |
+| 20-Feb   | [Training strategies](lectures/training.html): Structural SVM, SGD                         |
+| 25-Feb   | [Inference](lectures/inference.html): Graph algorithms                                     |
+| 27-Feb   | *Buffer lecture*                                                                           |
+| 3-Mar    | *Buffer lecture*                                                                           |
+| 5-Mar    | *Buffer lecture*                                                                           |
+| 10-Mar   | *Spring Break. No class*                                                                   |
+| 12-Mar   | *Spring Break. No class*                                                                   |
+| 17-Mar   | [Inference](lectures/inference.html): ILP Inference                                        |
+| 19-Mar   | [Inference](lectures/inference.html): Approximate Inference                                |
+| 24-Mar   | [Inference](lectures/inference.html): Learning to Search                                   |
+| 26-Mar   | [Learning with constraints](lectures/constraints.html)                                     |
+| 31-Mar   | [Learning latent variables](lectures/latent.html)                                          |
+| 2-Apr    | [Deep learning](lectures/deep-learning.html): Neural network review                        |
+| 7-Apr    | [Deep learning](lectures/deep-learning.html): Recurrent Networks, LSTM                     |
+| 9-Apr    | Deep learning and structures                                                               |
+| 14-Apr   | *Buffer lecture*                                                                           |
+| 16-Apr   | *Buffer lecture*                                                                           |
+| 21-Apr   | [Practical concerns](lectures/practical.html)                                              |
 |          | [Looking back](lectures/final.html)                                                        |
-| 26-Apr   | Project presentations during final exam (10:30 AM - 12:30 PM)                              |
+| 28-Apr   | Project presentations during final exam (8:00 AM - 10:00 AM)                               |
 
 
 ----
@@ -58,14 +57,13 @@ content may change as the semester goes along.
 ### Important dates
 <a name ="dates">
 
-| **Date** | **Deadline**                             |
-| 17-Jan   | Start signing up for class presentations |
-| 24-Jan   | Project team information due             |
-| 5-Feb    | Review 1 due                             |
-| 14-Feb   | Project proposals due                    |
-| 30-Mar   | Review 2 due                             |
-| 2-Apr    | Project intermediate status report due   |
-| 23-Apr   | Review 3 due                             |
-| 24-Apr   | Project poster email to Chirs            |
-| 26-Apr   | Project poster session in class          |
-| 28-Apr   | Project final report due                 |
+| **Date** | **Deadline**                           |
+| 28-Jan   | Project team information due           |
+| 4-Feb    | Review 1 due                           |
+| 18-Feb   | Project proposals due                  |
+| 27-Feb   | Review 2 due                           |
+| 17-Mar   | Project intermediate status report due |
+| 27-Mar   | Review 3 due                           |
+| 25-Apr   | Project poster email to Chris          |
+| 28-Apr   | Project poster session in class        |
+| 28-Apr   | Project final report due               |

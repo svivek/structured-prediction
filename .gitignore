@@ -10,3 +10,4 @@ auto
 .DS_Store
 *.synctex.gz
 .ipynb_checkpoints
+.jekyll-cache

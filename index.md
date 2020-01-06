@@ -37,19 +37,17 @@ course mechanics and policies.
 | *Email*        | `svivek at cs dot utah dot edu`  |
 | *Office hours* | {{site.instructor_office_hours}} |
 
-**Teaching Assistant**: Jie Cao
+**Teaching Assistant**: Yuan Zhaung
 
-| *Email* | `jcao at cs dot utah dot edu` |
-| *Office Hours* | Mon 2:00 PM, 3115 MEB, or by appointment |
+| *Email* | `yuan dot zhuang at utah dot edu` |
 
-**Please prefix any emails to the instructor or the TA with the course
-number `{{site.coursenumber}}`.**
+*Please prefix any emails to the instructor or the TA with the course number
+`{{site.coursenumber}}`.*
 
 **Discussion forum**: We will be using
-    [Canvas]({{site.canvas}}/discussion_topics). *Please* use the
-    discussion forum as the preferred medium for interacting with the
-    instructor and the teaching assistants rather than emailing
-    directly.
+    [Canvas]({{site.canvas}}/discussion_topics). *Please* use the discussion
+    forum as the preferred medium for interacting with the instructor and the
+    teaching assistants rather than emailing directly.
 
 -----
 
