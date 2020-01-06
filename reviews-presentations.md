@@ -29,7 +29,7 @@ paper, if you had been the author. End the review with questions,
 doubts, or any thoughts about the paper. You could also list
 experiments or results that you think would strengthen the paper.
 
-Some tips:
+#### Some tips
 
 - **Do not** comment about the grammar and typos. We are reading the
   paper as computer scientists and are interested in the
@@ -94,7 +94,7 @@ Some tips:
 
   -   Are the ideas novel, or have they appeared before?
 
-Some resources to help you write better reviews:
+#### Some resources to help you write better reviews
 
 -  [How to read a research paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf),
    by Michael Mitzenmacher
