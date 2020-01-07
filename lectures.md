@@ -59,11 +59,12 @@ semester goes along.
 
 | **Date** | **Deadline**                           |
 | 28-Jan   | Project team information due           |
-| 4-Feb    | Review 1 due                           |
+| 30-Jan   | Review 1 due                           |
 | 18-Feb   | Project proposals due                  |
-| 27-Feb   | Review 2 due                           |
-| 17-Mar   | Project intermediate status report due |
-| 27-Mar   | Review 3 due                           |
+| 27-Feb   | Assignment due                         |
+| 19-Mar   | Project intermediate status report due |
+| 26-Mar   | Review 2 due                           |
+| 14-Apr   | Review 3 due                           |
 | 25-Apr   | Project poster email to Chris          |
 | 28-Apr   | Project poster session in class        |
 | 28-Apr   | Project final report due               |

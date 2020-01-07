@@ -35,19 +35,16 @@ Enrolled students are expected to:
 * Attend class lectures, participate in the class,
 
 * Complete readings and submit critical reviews in a timely fashion,
+  
+  Required and additional recommended readings will be assigned for each
+  lecture. The lectures will be based around the readings.  You will write short
+  (less than two page) critical reviews of three of the papers in the additional
+  readings. You can select any papers from the ones on the website and submit
+  the reviews before the deadlines listed
 
-> Required and additional recommended readings will be assigned for each
-> lecture. The lectures will be based around the readings.
-> 
-> You will write short (less than two page) critical reviews of three of the
-> papers in the additional readings. You can select any papers from the ones on
-> the website and submit the reviews before the deadlines listed
-
-* Present at least one paper from the additional readings in the class and lead
-  discussion around it, and,
+* Complete other assignments in a timely fashion, and,
    
-* Complete a project (in a group at most two students) and submit a
-  report.
+* Complete a project (in a group at most two students) and submit a report.
 
 There will be no exams.
 
@@ -55,9 +52,8 @@ There will be no exams.
 
 Your grade is based on the following
 
-- [Paper reviews](reviews-presentations.html#reviews) (30%),
-- [Class presentation](reviews-presentations.html#presentations) (15%),
-- [Project report and presentation](projects.html) (50%), and
+- Paper reviews and assignments (30%),
+- Project report and presentation (50%), and
 - Class participation (5%)
 
 {% include_relative _includes/hw_due.md %}

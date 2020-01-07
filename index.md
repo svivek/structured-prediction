@@ -5,20 +5,17 @@ layout: page
 This course gives a graduate level overview of concepts and techniques
 for statistical modeling of structured data.
 
-Much of the data we see is in an unstructured form -- text, images,
-videos, etc. How do we efficiently learn to extract structured
-information from such raw data? This could involve tasks such as
-parsing a sentence, creating a tabulated summary of the information in
-a webpage, adding tags to an image, recognizing objects in images,
-etc. The common thread across these applications is that predicting
-the output requires assignments to multiple interdependent
-variables. 
+Much of the data we see is in an unstructured form---text, images, videos,
+etc. How do we efficiently learn to extract structured information from such raw
+data? This could involve tasks such as parsing a sentence, creating a tabulated
+summary of the information in a webpage, adding tags to an image, recognizing
+objects in images, etc. The common thread across these applications is that
+predicting the output requires assignments to multiple interdependent variables.
 
-In this course, we will study topics in structured learning and
-prediction, with a focus on ideas that have emerged in the last couple
-of decades. We will look at several techniques for structured output
-learning and prediction using examples from natural language
-processing, computer vision and related areas.
+In this course, we will study topics in structured learning and prediction, with
+a focus on ideas that have emerged in the last couple of decades. We will look
+at several techniques for structured output learning and prediction using
+examples from natural language processing, computer vision and related areas.
 
 See [course information]({{site.baseurl}}/info.html) for details about
 course mechanics and policies.
@@ -53,9 +50,7 @@ course mechanics and policies.
 
 ## Course objectives, or: What can I expect to learn?
 
-The first third of the semester will consist of lectures. After that,
-lectures will be followed by student presentations in class.  At the
-end of the course, you should be able to critically read current
+By the end of the course, you should be able to critically read current
 literature and use the ideas learned to:
 
 1. Define structured models for new problems,
