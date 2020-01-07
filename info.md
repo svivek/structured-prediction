@@ -52,7 +52,7 @@ There will be no exams.
 
 Your grade is based on the following
 
-- Paper reviews and assignments (30%),
+- Paper reviews and assignments (45%),
 - Project report and presentation (50%), and
 - Class participation (5%)
 
