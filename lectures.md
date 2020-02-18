@@ -24,17 +24,17 @@ semester goes along.
 | 21-Jan   | [First Look at Structures](lectures/first-look.html)                                       |
 | 23-Jan   | [Sequence Models](lectures/sequences.html): HMM                                            |
 | 28-Jan   | [Sequence Models](lectures/sequences.html): Local models                                   |
-| 30-Jan   | [Sequence Models](lectures/sequences.html): CRFs                                           |
-| 4-Feb    | [Sequence Models](lectures/sequences.html): Structured Perceptron                          |
-| 6-Feb    | [General Formulations](lectures/general-formulations.html): Graphical Models               |
-| 11-Feb   | [General Formulations](lectures/general-formulations.html): Markov Logic Networks          |
-| 13-Feb   | [General Formulations](lectures/general-formulations.html): Constrained Conditioned Models |
-| 18-Feb   | [Training strategies](lectures/training.html): Structural SVM                              |
-| 20-Feb   | [Training strategies](lectures/training.html): Structural SVM, SGD                         |
-| 25-Feb   | [Inference](lectures/inference.html): Graph algorithms                                     |
-| 27-Feb   | *Buffer lecture*                                                                           |
-| 3-Mar    | *Buffer lecture*                                                                           |
-| 5-Mar    | *Buffer lecture*                                                                           |
+| 30-Jan   | Local models (continued)                                                                   |
+| 4-Feb    | [Sequence Models](lectures/sequences.html): CRFs                                           |
+| 6-Feb    | *No class*                                                                                 |
+| 11-Feb   | *No class*                                                                                 |
+| 13-Feb   | [Sequence Models](lectures/sequences.html): Structured Perceptron                          |
+| 18-Feb   | [General Formulations](lectures/general-formulations.html): Graphical Models               |
+| 20-Feb   | [General Formulations](lectures/general-formulations.html): Markov Logic Networks          |
+| 25-Feb   | [General Formulations](lectures/general-formulations.html): Constrained Conditioned Models |
+| 27-Feb   | [Training strategies](lectures/training.html): Structural SVM                              |
+| 3-Mar    | [Training strategies](lectures/training.html): Structural SVM, SGD                         |
+| 5-Mar    | [Inference](lectures/inference.html): Graph algorithms                                     |
 | 10-Mar   | *Spring Break. No class*                                                                   |
 | 12-Mar   | *Spring Break. No class*                                                                   |
 | 17-Mar   | [Inference](lectures/inference.html): ILP Inference                                        |
@@ -59,12 +59,11 @@ semester goes along.
 
 | **Date** | **Deadline**                           |
 | 28-Jan   | Project team information due           |
-| 30-Jan   | Review 1 due                           |
-| 18-Feb   | Project proposals due                  |
-| 27-Feb   | Assignment due                         |
+| 18-Feb   | Review 1 due                           |
+| 20-Feb   | Project proposals due                  |
+| 5-Mar    | Assignment due                         |
 | 19-Mar   | Project intermediate status report due |
 | 26-Mar   | Review 2 due                           |
 | 14-Apr   | Review 3 due                           |
-| 25-Apr   | Project poster email to Chris          |
-| 28-Apr   | Project poster session in class        |
+| 28-Apr   | Project presentations in class         |
 | 28-Apr   | Project final report due               |
