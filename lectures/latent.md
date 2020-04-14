@@ -9,8 +9,13 @@ next: practical.html
 This lecture covers various algorithms that we can use if we do not
 have full supervision of our structured output.
 
+### Lecture and readings
 
-### Readings
+- [Lecture slides]({{site.lectures}}/slides/weak-supervision/weak-supervision.pdf)
+
+- Some notes on the EM algorithm:
+  - [Michael Collins' notes](http://www.cs.columbia.edu/~mcollins/em.pdf)
+  - [Andrew Ng's notes](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
 
 -   (\*) Chun-Nam John Yu and Thorsten Joachims, [Learning Structural
     SVMs with Latent
