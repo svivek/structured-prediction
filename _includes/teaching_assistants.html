@@ -1,0 +1,17 @@
+<strong>Teaching Assistants</strong>
+
+<table>
+  <tr>
+    <th></th>
+    <th><strong>Email</strong></th>
+    <th><strong>Office hours</strong></th>
+  </tr>
+  {% for ta in site.data.staff.tas %}
+  <tr>
+    <td>{{ta.name}}</td>
+    <td>{{ta.email}}</td>
+    <td>{{ta.office-hours}}</td>
+  </tr>
+  {% endfor %}
+</table>
+

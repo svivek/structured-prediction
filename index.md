@@ -26,25 +26,20 @@ course mechanics and policies.
 
 ## Meetings & Staff
 
-**Lectures**: {{site.classtime}} at {{site.classlocation}}
+**Lectures**: {{site.classtime}}. 
 
-**Instructor**: [Vivek Srikumar](http://svivek.com)
+{% include instructor_info.html %}
 
-| *Office*       | {{site.instructor_office}}       |
-| *Email*        | `svivek at cs dot utah dot edu`  |
-| *Office hours* | {{site.instructor_office_hours}} |
+{% include teaching_assistants.html %}
 
-**Teaching Assistant**: Yuan Zhaung
+**Meeting URLs**: The links for class and office hours are [available on
+Canvas]({{site.canvas}}/pages/meetings-details).
 
-| *Email* | `yuan dot zhuang at utah dot edu` |
-
-*Please prefix any emails to the instructor or the TA with the course number
-`{{site.coursenumber}}`.*
 
 **Discussion forum**: We will be using
-    [Canvas]({{site.canvas}}/discussion_topics). *Please* use the discussion
-    forum as the preferred medium for interacting with the instructor and the
-    teaching assistants rather than emailing directly.
+[Canvas]({{site.canvas}}/discussion_topics). *Please* use the discussion forum
+as the preferred medium for interacting with the instructor and the teaching
+assistants rather than emailing directly.
 
 -----
 

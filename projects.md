@@ -81,6 +81,8 @@ across the following milestones:
    4. What did you learn?
    5. Results (or for theoretical project, proofs)
    6. If you had much more time, how would you continue the project?
+   7. If your project had two members, your report should explain what each of
+      you did.
 
    Each of these components will be equally weighted in the report
    grade.

@@ -1,8 +1,7 @@
-Personal concerns such as stress, anxiety, relationship
-difficulties, depression, cross-cultural differences, etc. can
-interfere with a student’s ability to succeed and thrive at the
-University of Utah. 
+Personal concerns such as stress, anxiety, relationship difficulties,
+depression, cross-cultural differences, etc. can interfere with a student’s
+ability to succeed and thrive.
 
-For helpful resources, contact the [Center for Student
- Wellness](https://www.wellness.utah.edu) online, or on the phone at
- 801-581-7776.
+The university provides helpful resources if you need support: Please get in
+touch with the [Center for Student Wellness](https://www.wellness.utah.edu) in
+case you need it.

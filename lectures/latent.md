@@ -17,6 +17,8 @@ have full supervision of our structured output.
   - [Michael Collins' notes](http://www.cs.columbia.edu/~mcollins/em.pdf)
   - [Andrew Ng's notes](http://cs229.stanford.edu/notes/cs229-notes8.pdf)
 
+- Neal, Radford M., and Geoffrey E. Hinton. "[A view of the EM algorithm that justifies incremental, sparse, and other variants.](http://ftp.cs.utoronto.ca/cs/ftp/pub/radford/emk.pdf)" In Learning in graphical models, pp. 355-368. Springer, Dordrecht, 1998.
+
 -   (\*) Chun-Nam John Yu and Thorsten Joachims, [Learning Structural
     SVMs with Latent
     Variables](http://www.cs.cornell.edu/~cnyu/papers/icml09_latentssvm.pdf),

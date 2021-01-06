@@ -13,12 +13,7 @@ title: Course Information
 ### Prerequisites
 <a name="prerequisites">
 
-Students are expected to be familiar with the basics of machine learning to the
-extent covered in the machine learning course in the School of Computing.
-
-Of course, we will introduce some of the relevant prerequisite concepts in the
-lectures as needed, but knowing the topics will significantly help in
-understanding the new material.
+{% include_relative _includes/prerequisites.md %}
 
 ----
 
@@ -44,7 +39,8 @@ Enrolled students are expected to:
 
 * Complete other assignments in a timely fashion, and,
    
-* Complete a project (in a group at most two students) and submit a report.
+* Complete a semester-long project (in a group at most two students) and submit
+  a report.
 
 There will be no exams.
 
@@ -53,7 +49,7 @@ There will be no exams.
 Your grade is based on the following
 
 - Paper reviews and assignments (45%),
-- Project report and presentation (50%), and
+- Project report (50%), and
 - Class participation (5%)
 
 {% include_relative _includes/hw_due.md %}
@@ -72,52 +68,17 @@ Your grade is based on the following
 <a name="course-policies">
 
 #### School of Computing Policies and Guidelines
-   
-The class operates under the School of Computing's [policies and
-guidelines](http://www.cs.utah.edu/socguidelines/). Among other things, the
-linked page provides information about the [academic misconduct
-policy](http://www.cs.utah.edu/academic-misconduct/) that we will adhere to.
 
-Also see the [College of Engineering
-guidelines](https://www.coe.utah.edu/students/academic-affairs/academics/semester-guidelines/)
-for information about appeals procedures, withdrawal procedures, and adding and
-repeating courses.
+{% include_relative _includes/policies.md %}
 
 #### Collaboration and Cheating
 
-Collaboration is encouraged; cheating will not be tolerated.
+{% include_relative _includes/cheating.md %}
 
-
-<center><u>Honor code for this class</u></center>
-
-> You are encouraged to discuss class materials with your peers. If
-> you want you can form study groups because discussions help
-> understanding. You are also welcome to discuss
-> assignments. 
-> 
-> However, you must write your own solutions, proofs and code and
-> submit your own solution. Do not copy or ask for assignments from
-> other students or the internet. Do not let someone else copy your
-> submissions either.
-
-If you are caught cheating once, you *will* receive a failing grade
-for that submission. If you are caught cheating again, you will fail
-the class.
- 
-For projects, you are free to discuss the project with anyone in
-your project group.
- 
-For both assignments and projects, you should cite all sources that
-you refer to. This includes personal communication, books, papers,
-websites, etc. Doing so reflects academic integrity.
 
 #### The Americans with Disabilities Act
 
 {% include_relative _includes/ada.md %}
-
-#### Wellness
-
-{% include_relative _includes/wellness.md %}
 
 #### University Safety Statement
 
@@ -127,6 +88,13 @@ websites, etc. Doing so reflects academic integrity.
 
 {% include_relative _includes/sexual_misconduct.md %}
 
+#### Wellness
+
+{% include_relative _includes/wellness.md %}
+
+#### Diversity
+
+{% include_relative _includes/diversity.md %}
 
 
 ----
