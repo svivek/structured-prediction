@@ -28,17 +28,13 @@ researcher.
 Enrolled students are expected to:
 
 * Attend class lectures, participate in the class,
-
-* Complete readings and submit critical reviews in a timely fashion,
-  
+* Complete readings and submit critical reviews in a timely fashion,<br/>
   Required and additional recommended readings will be assigned for each
   lecture. The lectures will be based around the readings.  You will write short
   (less than two page) critical reviews of three of the papers in the additional
   readings. You can select any papers from the ones on the website and submit
   the reviews before the deadlines listed
-
 * Complete other assignments in a timely fashion, and,
-   
 * Complete a semester-long project (in a group at most two students) and submit
   a report.
 
@@ -48,9 +44,9 @@ There will be no exams.
 
 Your grade is based on the following
 
-- Paper reviews and assignments (45%),
-- Project report (50%), and
-- Class participation (5%)
+* Paper reviews and assignments (45%),
+* Project report (50%), and
+* Class participation (5%)
 
 {% include_relative _includes/hw_due.md %}
 
