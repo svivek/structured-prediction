@@ -23,6 +23,8 @@ semester's class.
 
 * [Lecture slides]({{site.lectures}}/slides/intro-to-structured-prediction/intro.pdf)
 
+* [{{site.videoicon}}](https://youtu.be/3gUmUpSicr8)
+
 * [Course information and policies]({{site.baseurl}}/info.html),
   [summary slides]({{site.baseurl}}/slides/info/info.pdf)
 
