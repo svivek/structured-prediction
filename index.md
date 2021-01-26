@@ -30,7 +30,7 @@ course mechanics and policies.
 
 {% include instructor_info.html %}
 
-{% include teaching_assistants.html %}
+
 
 **Meeting URLs**: The links for class and office hours are [available on
 Canvas]({{site.canvas}}/pages/meetings-details).
