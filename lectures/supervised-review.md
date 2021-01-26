@@ -15,9 +15,7 @@ perspective.
 
 ### Lecture slides and Readings
 
-* [Lecture slides]({{site.baseurl}}/slides/review/review.pdf)
-
-* [{{site.videoicon}}](https://youtu.be/yBpTmrBihyQ)
+* [Lecture slides]({{site.baseurl}}/slides/review/review.pdf) [{{site.videoicon}}](https://youtu.be/yBpTmrBihyQ)
 
 * Trevor Hastie, Robert Tibshirani, Jerome Friedman,
   [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/),
