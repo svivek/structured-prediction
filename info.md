@@ -31,9 +31,7 @@ Enrolled students are expected to:
 * Complete readings and submit critical reviews in a timely fashion,<br/>
   Required and additional recommended readings will be assigned for each
   lecture. The lectures will be based around the readings.  You will write short
-  (less than two page) critical reviews of three of the papers in the additional
-  readings. You can select any papers from the ones on the website and submit
-  the reviews before the deadlines listed
+  reviews of three of the papers taken from the additional readings.
 * Complete other assignments in a timely fashion, and,
 * Complete a semester-long project (in a group at most two students) and submit
   a report.
