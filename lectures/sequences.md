@@ -17,7 +17,11 @@ first concrete combinatorial inference algorithm that uses dynamic programming
 ### Lecture slides
 
 * [Hidden Markov models]({{site.lectures}}/slides/sequences/sequences-intro.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=LRNpDW-FSdQ&index=5&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  - [{{site.videoicon}}](https://youtu.be/v0NiKtX-ENw) (Markov models for
+    sequences)
+  - [{{site.videoicon}}](https://youtu.be/IZuOUuR7zqU) (Introduction to hidden
+    Markov models)
+
 
 * [Local models]({{site.lectures}}/slides/sequences/sequences-local.pdf)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=12W1Q1R7Pu4&index=6&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)

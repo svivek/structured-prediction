@@ -13,6 +13,8 @@ need for decomposing the output space to define probabilistic models.
 
 ### Lectures and readings
 
-- [Lecture slides]({{site.lectures}}/slides/first-look-at-structures/first-look.pdf) [{{site.videoicon}}](https://youtu.be/bED5tmR35yc)
+- [Lecture slides]({{site.lectures}}/slides/first-look-at-structures/first-look.pdf)
+  - [{{site.videoicon}}](https://youtu.be/bED5tmR35yc) (part 1)
+  - [{{site.videoicon}}]( https://youtu.be/ePAnsWYBq4I) (part 2)
 
 
