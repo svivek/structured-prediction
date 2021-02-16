@@ -21,11 +21,14 @@ first concrete combinatorial inference algorithm that uses dynamic programming
     sequences)
   - [{{site.videoicon}}](https://youtu.be/IZuOUuR7zqU) (Introduction to hidden
     Markov models)
-  - [{{site.videoicon}}]( https://youtu.be/D54vVAZN6gs ) (Hidden Markov models continued)
+  - [{{site.videoicon}}](https://youtu.be/D54vVAZN6gs) (Hidden Markov models continued)
 
 
 * [Local models]({{site.lectures}}/slides/sequences/sequences-local.pdf)
-  - [{{site.videoicon}}]( https://youtu.be/r2cFAvBJZXM ) (Conditional models and local classifiers)
+  - [{{site.videoicon}}](https://youtu.be/r2cFAvBJZXM) (Conditional models and
+    local classifiers)
+  - [{{site.videoicon}}](https://youtu.be/35jfuf2AOIE) (Conditional models and
+    local classifiers, continued)
 
 * [Conditional Random Fields]({{site.lectures}}/slides/sequences/sequences-crf.pdf)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=1Ei_mlcd20s&index=7&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
