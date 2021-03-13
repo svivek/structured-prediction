@@ -31,10 +31,10 @@ first concrete combinatorial inference algorithm that uses dynamic programming
     local classifiers, continued)
 
 * [Conditional Random Fields]({{site.lectures}}/slides/sequences/sequences-crf.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=1Ei_mlcd20s&index=7&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/zlqwlqqDzI8)
 
 * [Structured Perceptron]({{site.lectures}}/slides/sequences/struct-perceptron.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=nbGQ0IX1FH0&index=8&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/lefoKmD2yl8)
 
 ### Background reading, surveys and tutorials
 

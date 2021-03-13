@@ -13,17 +13,16 @@ generalize the techniques we saw to arbitrary structured outputs.
 ### Lecture
 
 * [Probabilistic Graphical Models]({{site.lectures}}/slides/general-formulations-structures/pgm-representations.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=oQ68URUhB0Q&index=9&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=2IPjk7JvGJk&index=10&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/__cNPqPIsCM)
 
-* [Markov Logic]({{site.lectures}}/slides/general-formulations-structures/mln.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=4lBTgv9cnws&index=11&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+* [Markov Logic]({{site.lectures}}/slides/general-formulations-structures/mln.pdf)  
+  [{{site.videoicon}}](https://youtu.be/oU0-LGjoB_Y)
 
 * [Conditional Random Fields]({{site.lectures}}/slides/general-formulations-structures/crf.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=3t3ERbzmgEE&index=12&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/vm53uYO7beo)
 
 * [Constrained Conditional Models]({{site.lectures}}/slides/general-formulations-structures/ccm.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=q0nQwx2DIkI&index=13&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/o8bL8q32Xsc)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=_-Rp9VoEyFk&index=14&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
 
 ### Readings
