@@ -18,10 +18,11 @@ minimization framework.
 ### Lectures 
 
 - [Structural SVM and Risk Minimization ]({{site.lectures}}/slides/training-with-structures/training-with-structures.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=dyOupF2g4hg&index=15&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
-
+  [{{site.videoicon}}](https://youtu.be/haRGE6QAZdc)
+  [{{site.videoicon}}](https://youtu.be/54ZivUfQ2N0)
+  
 - [Stochastic gradient descent]({{site.lectures}}/slides/training-with-structures/sgd-structures.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=k8qcQCqI7KI&index=16&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/aH38aisMnz4)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=tEFvWvNTABw&index=17&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
 
 ### Readings

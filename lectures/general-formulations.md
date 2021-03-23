@@ -23,7 +23,7 @@ generalize the techniques we saw to arbitrary structured outputs.
 
 * [Constrained Conditional Models]({{site.lectures}}/slides/general-formulations-structures/ccm.pdf)
   [{{site.videoicon}}](https://youtu.be/o8bL8q32Xsc)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=_-Rp9VoEyFk&index=14&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/j6l4XoNZZAQ)
 
 ### Readings
 
