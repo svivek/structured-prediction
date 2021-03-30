@@ -16,10 +16,10 @@ use of integer linear programming for inference.
 ### Lectures
 
 - [Inference: The setup]({{site.lectures}}/slides/inference/inference.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=IPUrI5uyGnM&index=18&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/OChOg7vKSxQ)
 
 - [Inference: Graph Search]({{site.lectures}}/slides/inference/search.pdf)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=0cnpyuEHglE&index=19&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/zXQ2vxtuxSs)
 
 - [Inference: Integer Linear Programs]({{site.lectures}}/slides/inference/ilp.pdf)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=T8dUavnflcM&index=20&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)

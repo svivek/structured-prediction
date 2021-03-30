@@ -23,7 +23,7 @@ minimization framework.
   
 - [Stochastic gradient descent]({{site.lectures}}/slides/training-with-structures/sgd-structures.pdf)
   [{{site.videoicon}}](https://youtu.be/aH38aisMnz4)
-  [{{site.videoicon}}](https://www.youtube.com/watch?v=tEFvWvNTABw&index=17&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
+  [{{site.videoicon}}](https://youtu.be/OfFf1hcs9FE)
 
 ### Readings
 
