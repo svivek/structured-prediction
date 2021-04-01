@@ -28,6 +28,8 @@ use of integer linear programming for inference.
   [{{site.videoicon}}](https://www.youtube.com/watch?v=tOMLU0A8hFo&index=21&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=L2D2nId_0Tg&index=22&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
 
+    - An example: [MCMC for decoding a substitution cipher](https://github.com/svivek/mcmc-decoding-example)
+
 - [Inference: Learning to Search]({{site.lectures}}/slides/learning-to-search/learning-to-search.pdf)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=eaAbUxGyFxc&index=23&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
   [{{site.videoicon}}](https://www.youtube.com/watch?v=Zg7e6PJPtIM&index=24&list=PLQyIezs6RFZKDSqQIBn-LKuFF2LTKMz3l)
