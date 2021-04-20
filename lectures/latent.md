@@ -12,6 +12,7 @@ have full supervision of our structured output.
 ### Lecture and readings
 
 - [Lecture slides]({{site.lectures}}/slides/weak-supervision/weak-supervision.pdf)
+  - [{{site.videoicon}}](https://youtu.be/n_t4DM_DpF8) (The EM algorithm)
 
 - Some notes on the EM algorithm:
   - [Michael Collins' notes](http://www.cs.columbia.edu/~mcollins/em.pdf)
